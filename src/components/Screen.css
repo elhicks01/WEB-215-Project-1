@@ -1,0 +1,17 @@
+/* src/components/Screen.css */
+.screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    color: #fff;
+    font-size: 10vw; /* Adjust as needed for responsiveness */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+  
